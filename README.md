@@ -14,6 +14,7 @@
    - You must include a form that allows the user to filter what data is displayed:
      - The user should be able to filter by first name, last name, and gender
      - *Note: this should NOT require an additional API request*
+   - The website must be properly hosted on GitHub
    - *Note: Be kind to the API server(s)! You’re cohort has 20 students all requesting information (likely from the same IP address). Don’t spam refresh your browser or loop 100 individual requests - this can get your IP address blacklisted!*
 5. Before you begin…
    - Wireframe your site
