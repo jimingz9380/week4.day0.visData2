@@ -4,7 +4,7 @@
 1. Use command line to create a new project folder called “visData2”
    - Create your typical website directory layout
 2. Last time, we copy and pasted some JSON data from https://randomuser.me. This time, we’ll get data with an API request. 
-3. You will create a web page that displays the data you get from the API request. Also, the user should be able to filter the data being displayed by first name, last name, and gender.
+3. You will create a web page that displays the data you get from the API request. Also, the user should be able to sort the data being displayed by first name, last name, and gender.
 4. Requirements:
    - The web page should be responsive and work properly on a mobile device:
      - The target device is Galaxy S5 (360x640) - yeah, I changed it. What!?
