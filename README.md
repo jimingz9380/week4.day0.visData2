@@ -27,3 +27,4 @@
 
 ## Helpful Resources
 - [Random User Documentation](https://randomuser.me/documentation)
+- [I BET PEOPLE WON’T EVEN NOTICE THIS LINK](https://2018-asc-secret.glitch.me/)
